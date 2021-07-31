@@ -16,6 +16,7 @@
 		242BE0EC26B397E800442FD3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 242BE0EA26B397E800442FD3 /* LaunchScreen.storyboard */; };
 		242BE0F726B397E800442FD3 /* E_Hettler_final_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 242BE0F626B397E800442FD3 /* E_Hettler_final_AppTests.swift */; };
 		242BE10226B397E800442FD3 /* E_Hettler_final_AppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 242BE10126B397E800442FD3 /* E_Hettler_final_AppUITests.swift */; };
+		242BE11326B3A14300442FD3 /* page2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 242BE11226B3A14300442FD3 /* page2ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		242BE0FD26B397E800442FD3 /* E.Hettler final AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "E.Hettler final AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		242BE10126B397E800442FD3 /* E_Hettler_final_AppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = E_Hettler_final_AppUITests.swift; sourceTree = "<group>"; };
 		242BE10326B397E800442FD3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		242BE11226B3A14300442FD3 /* page2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = page2ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				242BE0EA26B397E800442FD3 /* LaunchScreen.storyboard */,
 				242BE0ED26B397E800442FD3 /* Info.plist */,
 				242BE0E526B397E700442FD3 /* E_Hettler_final_App.xcdatamodeld */,
+				242BE11226B3A14300442FD3 /* page2ViewController.swift */,
 			);
 			path = "E.Hettler final App";
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				242BE0E126B397E700442FD3 /* ViewController.swift in Sources */,
+				242BE11326B3A14300442FD3 /* page2ViewController.swift in Sources */,
 				242BE0DD26B397E700442FD3 /* AppDelegate.swift in Sources */,
 				242BE0E726B397E700442FD3 /* E_Hettler_final_App.xcdatamodeld in Sources */,
 				242BE0DF26B397E700442FD3 /* SceneDelegate.swift in Sources */,
